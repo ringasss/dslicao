@@ -1,0 +1,36 @@
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.csprojResolveAssemblyReference.cache
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto_Banco_Sharpdevelop.MainForm.resources
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.csproj.GenerateResource.Cache
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.exe.config
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.pdb
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\MySql.Data.dll
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\Caio Malheiros\Documents\SharpDevelop Projects\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.pdb
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.csprojResolveAssemblyReference.cache
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto_Banco_Sharpdevelop.MainForm.resources
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.csproj.GenerateResource.Cache
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.exe.config
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.pdb
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\bin\Debug\MySql.Data.dll
+C:\Users\monge\Desktop\Projeto Banco Sharpdevelop\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.pdb
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.exe.config
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\bin\Debug\Projeto Banco Sharpdevelop.pdb
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\bin\Debug\MySql.Data.dll
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.csprojResolveAssemblyReference.cache
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\obj\Debug\Projeto_Banco_Sharpdevelop.MainForm.resources
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.csproj.GenerateResource.Cache
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Sharpdevelop\obj\Debug\Projeto Banco Sharpdevelop.pdb
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\bin\Debug\Projeto Banco Sharpdevelop.exe.config
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\bin\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\bin\Debug\Projeto Banco Sharpdevelop.pdb
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\bin\Debug\MySql.Data.dll
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\obj\Debug\Projeto Banco Sharpdevelop.csprojResolveAssemblyReference.cache
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\obj\Debug\Projeto_Banco_Sharpdevelop.MainForm.resources
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\obj\Debug\Projeto Banco Sharpdevelop.csproj.GenerateResource.Cache
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\obj\Debug\Projeto Banco Sharpdevelop.exe
+C:\Users\monge\Desktop\Projeto Banco Loja\Projeto Banco Loja\obj\Debug\Projeto Banco Sharpdevelop.pdb
